@@ -1,4 +1,4 @@
-  var io = require('socket.io').listen(8000);
+  var io = require('socket.io').listen(8080);
 
    var players = {}, count = 0;
 
